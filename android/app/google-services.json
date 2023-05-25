@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681540505533",
+    "project_id": "video-app-fb283",
+    "storage_bucket": "video-app-fb283.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681540505533:android:d91f1c3bad93632e078cd4",
+        "android_client_info": {
+          "package_name": "com.example.short_video_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681540505533-aq3c362gnthlm5j1n9bn08r0b8arncl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlkZl0gV_KucGHTGoSafkLCcmgLSHxPw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681540505533-aq3c362gnthlm5j1n9bn08r0b8arncl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
